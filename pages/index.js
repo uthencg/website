@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my suchart app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by suchart editing <code>pages/index.js</code>
         </p>
       </main>
 
